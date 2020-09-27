@@ -1,0 +1,11 @@
+import firebase from "firebase";
+
+const firebaseConfig = {
+  apiKey: "AIzaSyBCo9w1xcjo9tLVrCZmSl-PXUfz6j3zkpo",
+  authDomain: "tinder-clone-a1a72.firebaseapp.com",
+  databaseURL: "https://tinder-clone-a1a72.firebaseio.com",
+  projectId: "tinder-clone-a1a72",
+  storageBucket: "tinder-clone-a1a72.appspot.com",
+  messagingSenderId: "31909975764",
+  appId: "1:31909975764:web:fe59cad9176dec4a408d41"
+};
